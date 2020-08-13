@@ -1,7 +1,7 @@
 # Recruitee Node.js Library
 
 The Recruitee Node library is a simple wrapper for the [Recruitee Private
-API](recruitee-api-docs) for applications written in Node.js.
+API][recruitee-api-docs] for applications written in Node.js.
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install recruitee --save
 
 To start using the library, create a new instance of the Recruitee class and
 pass it your company ID and API token. Both of these can be found on your
-[Recruitee dashboard](recruitee-dashboard).
+[Recruitee dashboard][recruitee-dashboard].
 
 ```javascript
 const Recruitee = require('recruitee');
